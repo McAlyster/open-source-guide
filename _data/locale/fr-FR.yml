@@ -1,17 +1,17 @@
 nav:
-  about: About
-  contribute: Contribute
+  about: À proppos
+  contribute: Contribuer
 
 page:
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+    lead: Les logiciels open source sont faits par des gens comme vous et moi. Apprenez à initier et développer vos projets open source.
 
 footer:
   contribute:
-    heading: Contribute
-    description: Want to make a suggestion? This content is open source. Help us improve it.
-    button: Contribute
+    heading: Contribuer
+    description: Une suggestion ? Ce contenu est open source, aidez-nous à l'améliorer !
+    button: Contribuer
   subscribe:
-    heading: Subscribe to updates
-    label: Email Address
-    button: Subscribe
+    heading: S'abonner aux mises à jour
+    label: Adresse email 
+    button: S'abonner
